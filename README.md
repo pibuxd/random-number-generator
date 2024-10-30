@@ -29,8 +29,6 @@ This project consists of two programs:
 
 ## Quick Start Guide
 
-## Quick Start Guide
-
 ### 1. Setup
 
 - Place both `program_a.py` and `program_b.py` in the same directory.
